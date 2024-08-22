@@ -1,0 +1,20 @@
+body{
+    color:grey;
+    /*background-image: linear-gradient(violet, white, red);*/
+   background-image: url("https://3.bp.blogspot.com/-fyip6t7c-wg/UrHv_GAZYDI/AAAAAAAAJCA/v6z1dP1PpEU/s1600/Rosas+lindas+-+wallpapers+-+pink-rose+-+Fonte+@Make_Paz.jpg")
+}
+
+p, ul{ 
+    color:blueviolet;
+    background-color: red;
+    font-size:  20px;  
+ } /* comentario no css* /
+    text-align:  center ;
+}
+./*titulo 
+
+#seletor{/}
+
+
+
+
